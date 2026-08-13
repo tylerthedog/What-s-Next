@@ -1,0 +1,6 @@
+{
+  "name": "What's Next?",
+  "description": "Professional consultancy, career services, digital profile optimization, video production, and media solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
